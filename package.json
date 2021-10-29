@@ -1,0 +1,19 @@
+{
+  "name": "@username/testing-123",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenhorn643/testing-123.git"
+  },
+  "author": "Alex Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenhorn643/testing-123/issues"
+  },
+  "homepage": "https://github.com/greenhorn643/testing-123#readme"
+}
